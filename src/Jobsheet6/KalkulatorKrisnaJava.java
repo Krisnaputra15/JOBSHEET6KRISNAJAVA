@@ -9,7 +9,7 @@ public class KalkulatorKrisnaJava {
     public static void main(String[] args) {
         Scanner tt = new Scanner(System.in);
         String pilihan;
-        System.out.println("PILIHAN 1");
+        System.out.println("Kalkulator Sederhana");
         System.out.print("Tentukan jenis operasi (tanpa spasi) : ");
         pilihan = tt.next();
       
